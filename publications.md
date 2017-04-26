@@ -32,7 +32,7 @@ Technology & Factory Automation</i>, Luxembourg, September 2015. [[DOI]](http://
 * M.R. Pedersen, D. Herzog, V. Krüger, <b>Intuitive
 Skill-Level Programming of Industrial Handling Tasks on a Mobile Manipulator</b>,
 <i>2014 IEEE/RSJ International Conference on Intelligent Robots and Systems
-(IROS)</i>, pp. 4523�4530, Chicago, USA, September 2014. [[DOI]](http://dx.doi.org/10.1109/IROS.2014.6943203)
+(IROS)</i>, pp. 4523-4530, Chicago, USA, September 2014. [[DOI]](http://dx.doi.org/10.1109/IROS.2014.6943203)
 * J. Klonovs, D.
 Herzog, M.R. Pedersen, B. Grossmann, L. Nalpantidis, V. Krüger, <b>Robotic
 System Capable of Identifying Objects Indicated by Pointing Gestures</b>
@@ -62,10 +62,20 @@ collaboration in the ECHORD project: a bridge for European robotics innovation,<
 at ICRA, St. Paul, Minnesota, USA, June 2012.
 * S. Bøgh, O.S. Nielsen, M.R.
 Pedersen, V. Krüger, O. Madsen, <b>Does your Robot have Skills?</b>, in <i>Proceedings
-of the 43rd International Symposium on Robotics (ISR)</i>, Taipei, Taiwan,
-2012.
+of the 43rd International Symposium on Robotics (ISR)</i>, Taipei, Taiwan, 2012.
 * C. Høilund, M.R. Pedersen,
 V. Krüger, <b>Using Human Gestures and Generic Skills to Instruct a Mobile
 Robot Arm in a Feeder Filling Scenario</b>, in <i>IEEE International
 Conference on Mechatronics and Automation (ICMA)</i>, pp. 243-248, Chengdu,
 China, August 2012. [[DOI]](http://dx.doi.org/10.1109/ICMA.2012.6282849)
+
+<b>Theses (3)</b>
+
+* M.R. Pedersen, <b>Robot Skills for Transformable
+Manufacturing Systems</b>, PhD Thesis, 2014 [[PDF]](https://dl.dropboxusercontent.com/u/38228546/STATIC/MRP_PhD_thesis_compressed.pdf)
+* M.R. Pedersen, <b>Integration of the KUKA
+Light-Weight Robot in a Mobile Manipulator</b>, M.Sc.Eng.
+thesis, 2011 [[PDF]](https://dl.dropboxusercontent.com/u/38228546/STATIC/MRP_master_thesis.pdf)
+* M.R. Pedersen, et.al., <b>Injection Molding of
+Wood-Polymer Composites</b>, B.Sc.Eng. thesis,
+2009 (confidential)
