@@ -14,11 +14,10 @@ master thesis on the development of a mobile manipulator, and a B.Sc.Eng. (2009)
 
 | <b>2016-present</b> | <b>Robot Systems Developer</b> at Danish Technological Institute |
 | <b>2015-2016</b> | <b>Postdoctoral Researcher</b> at Aalborg University Copenhagen |
-| <b>2011-2015</b> | <b>PhD Student in Robotics</b> at Aalborg University Copenhagen <br>PhD Thesis: "Robot Skills for Transformable Manufacturing Systems" <br>Supervisor: Prof. Volker Krüger |
-| <b>May-Oct 2012</b> | <b>Visiting Researcher</b> at Georgia Institute of Technology Working with Prof. Aaron Bobick at the   Computational Perception Lab |
-| <b>2009-2011</b> | <b>M.Sc. in Manufacturing Technology</b> from Aalborg University Master Thesis: "Integration of the KUKA Light-Weight Robot in a Mobile
-  Manipulator" Supervisor: Prof. Ole Madsen |
-| <b>2006-2009</b> | <b>B.Sc. in Industrial Engineering</b> from Aalborg University <B.Sc. Thesis: "Injection Molding of Wood-Polymer Composites" |
+| <b>2011-2015</b> | <b>PhD in Robotics</b> at Aalborg University Copenhagen <br>Thesis: "Robot Skills for Transformable Manufacturing Systems" <br>Supervisor: Prof. Volker Krüger |
+| <b>May-Oct 2012</b> | <b>Visiting Researcher</b> at Georgia Institute of Technology <br>Working with Prof. Aaron Bobick at the   Computational Perception Lab |
+| <b>2009-2011</b> | <b>M.Sc. in Manufacturing Technology</b> from Aalborg University <br>Thesis: "Integration of the KUKA Light-Weight Robot in a Mobile Manipulator" <br>Supervisor: Prof. Ole Madsen |
+| <b>2006-2009</b> | <b>B.Sc. in Industrial Engineering</b> from Aalborg University <br>Thesis: "Injection Molding of Wood-Polymer Composites" |
 
 <b>Organization</b>
 
