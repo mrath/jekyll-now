@@ -13,8 +13,6 @@ Manufacturing Technology (2011), from Aalborg University, where he did his
 master thesis on the development of a mobile manipulator, and a B.Sc.Eng. (2009) in Industrial Engineering.
 
 -----
-
-<center>
   
 | <b>2016-present</b> | <b>Robot Systems Developer</b> at Danish Technological Institute |
 | <b>2015-2016</b> | <b>Postdoctoral Researcher</b> at Aalborg University Copenhagen |
@@ -22,8 +20,6 @@ master thesis on the development of a mobile manipulator, and a B.Sc.Eng. (2009)
 | <b>May-Oct 2012</b> | <b>Visiting Researcher</b> at Georgia Institute of Technology <br>Working with Prof. Aaron Bobick at the   Computational Perception Lab |
 | <b>2009-2011</b> | <b>M.Sc. in Manufacturing Technology</b> from Aalborg University <br>Thesis: "Integration of the KUKA Light-Weight Robot in a Mobile Manipulator" <br>Supervisor: Prof. Ole Madsen |
 | <b>2006-2009</b> | <b>B.Sc. in Industrial Engineering</b> from Aalborg University <br>Thesis: "Injection Molding of Wood-Polymer Composites" |
-
-</center>
 
 -----
 
