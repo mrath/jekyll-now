@@ -14,7 +14,7 @@ master thesis on the development of a mobile manipulator, and a B.Sc.Eng. (2009)
 
 -----
   
-| <b>2016-present      </b> | <b>Robot Systems Developer</b> at Danish Technological Institute |
+| <b>2016-present&nbsp;&nbsp;&nbsp;&nbsp;</b> | <b>Robot Systems Developer</b> at Danish Technological Institute |
 | <b>2015-2016</b> | <b>Postdoctoral Researcher</b> at Aalborg University Copenhagen |
 | <b>2011-2015</b> | <b>PhD in Robotics</b> at Aalborg University Copenhagen <br>Thesis: "Robot Skills for Transformable Manufacturing Systems" <br>Supervisor: Prof. Volker Krüger |
 | <b>May-Oct 2012</b> | <b>Visiting Researcher</b> at Georgia Institute of Technology <br>Working with Prof. Aaron Bobick at the   Computational Perception Lab |
