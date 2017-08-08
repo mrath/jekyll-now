@@ -12,14 +12,11 @@ at [Google Scholar](https://scholar.google.com/citations?user=8Bx4cKYAAAAJ&hl=en
 * V. Krüger, A. Charzoule, M.Crosby, A. Lasnier, M.R. Pedersen, F. Rovida, L. Nalpantidis, R. Petrick,C. Toscano, G. Veiga, <b>A vertical and cyber-physical integration of cognitive robots in manufacturing</b>, <i>Industrial Cyber-Physical Systems</i>. [Special issue] of <i>Proceedings of the IEEE</i>, May 2016, Vol. 104 Iss. 5, pp. 1114-1127.  [[DOI]](https://doi.org/10.1109/JPROC.2016.2521731)
 * M.R. Pedersen, L. Nalpantidis, R.S. Andersen, C. Schou, S. Bøgh, V. Krüger, O. Madsen, <b>Robot Skills for Manufacturing: from Concept to Industrial Deployment</b>, <i>Robotics and Computer Integrated Manufacturing</i>, February 2016, Volume 37, pp. 282-291. [[DOI]](http://dx.doi.org/10.1016/j.rcim.2015.04.002)
 * M.R. Pedersen, V. Krüger, <b>Gesture-Based Extraction of Robot Skill Parameters for Intuitive Robot Programming</b>, available online in <i>Cognitive Robotics Systems: Concepts and Applications</i>. [Special issue] of <i>Journal of Intelligent & Robotic Systems</i>, February 24, 2015. [[DOI]](http://dx.doi.org/10.1007/s10846-015-0219-x)
-* O. Madsen, S. Bøgh, C. Schou, R.S. Andersen, J.S. Damgaard, M.R. Pedersen, V. Krüger, <b>Integration of Mobile Manipulators in an Industrial Production</b>, in <i>Industrial Robot: An International Journal</i> 2015,Vol. 42 Iss 1 pp. 11 - 18. [[DOI]](http://dx.doi.org/10.1108/IR-09-2014-0390)
+* O. Madsen, S. Bøgh, C. Schou, R.S. Andersen, J.S. Damgaard, M.R. Pedersen, V. Krüger, <b>Integration of Mobile Manipulators in an Industrial Production</b>, in <i>Industrial Robot: An International Journal</i> 2015,Vol. 42 Iss 1 pp. 11 - 18. Highly Commended Paper Award. [[DOI]](http://dx.doi.org/10.1108/IR-09-2014-0390)
 
 <b>Conference/Workshop (11)</b>
-* F. Rovida, M. Crosby, M.R.
-Pedersen, R. Petrick, V. Krüger, <b>Generating
-Planning Domains from Robot Actions for Autonomous Operation in Industrial
-Settings</b> submitted Nov 2015 to <i>The 26th International Conference on
-Automated Planning and Scheduling (ICAPS)</i>, 2016
+* M. Crosby, F. Rovida, M.R.
+Pedersen, R. Petrick, V. Krüger, <b>Planning for Robots with Skills</b> ICAPS 2016 workshop <i>4th ICAPS Workshop on Planning and Robotics</i>, ICAPS, pp. 49-57, 2016
 * M.R. Pedersen, V. Krüger, <b>Automated Planning
 of Industrial Logistics on a Skill-equipped Robot</b>, IROS 2015
 workshop <i>Task Planning for Intelligent Robots in Service and
