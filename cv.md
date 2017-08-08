@@ -44,14 +44,6 @@ IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2014, 
 
 IEEE International Conference on Industrial Technology (ICIT 2015)
 
-#<b>Professional memberships</b>
-
-#Member of IEEE.
-
-#Member of the IEEE Robotics and Automation Society.
-
-#Member of the IEEE Robotics and Automation Society's Technical Committee on Mobile Manipulation.
-
 <b>Other duties</b>
 
 Honorable ICRA 2015 Duckie Ambassador to Denmark [[What is this?](http://trailer.icra2016.org/)]
